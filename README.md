@@ -32,3 +32,9 @@ Trabalho principalmente com desenvolvimento de jogos (independente), mas também
 Alguns projetos pessoais estão em repositórios privados no GitHub, e pretendo abri-los ao público quando finalizados! 
 
 > "Despite everything, it's still you." - Toby Fox, Undertale
+
+Links interessantes e recomendações! 
+=====================
+1. [Obsidian (Editor de texto *Markdown*)](https://obsidian.md/)
+2. [Duckstation (Emulador do Playstation 1 em código aberto)](https://github.com/stenzek/duckstation)
+3. [Command & Conquer (Jogo antigo da Eletronic Arts, agora com o código aberto ao público)](https://github.com/electronicarts/CnC_Remastered_Collection)
