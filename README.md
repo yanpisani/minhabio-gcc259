@@ -18,12 +18,14 @@ Tenho conhecimento em algumas linguagens de programação, como:
 - Java
 - Python
 - JavaScript
+- ... entre outras! 
 
 E tenho interesse em aprender: 
 
 - Go
 - Ruby
 - Lua
+- ... entre outras! 
 
 Trabalho principalmente com desenvolvimento de jogos (independente), fazendo uso da engine gratuita *Unity*, mas também tenho interesse em trabalhar com pesquisas, especialmente as relacionadas à Inteligência Artificial.
 
